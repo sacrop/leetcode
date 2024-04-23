@@ -6,7 +6,7 @@ class Solution {
         while(i<num.length()-1&&j<num.length()){
             j=i+1;
             int count=1;
-            while(i<num.length()-1&&j<num.length()&&num.charAt(i)==num.charAt(j)&&count<3){
+            while(j<num.length()&&num.charAt(i)==num.charAt(j)&&count<3){
                 j++;
                 count++;
             }
