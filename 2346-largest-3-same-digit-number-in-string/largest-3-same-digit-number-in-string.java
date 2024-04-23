@@ -10,7 +10,6 @@ class Solution {
                 j++;
                 count++;
             }
-            System.out.println(num.charAt(i)+" "+count);
             if(count==3&&s.compareTo(num.substring(i,j))<0){
                 s=num.substring(i,j);
             }
