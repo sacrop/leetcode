@@ -1,6 +1,6 @@
 # 📝 2. Add Two Numbers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/add-two-numbers/?envType=problem-list-v2&envId=linked-list)
+🔗 [Problem Link](https://leetcode.com/problems/add-two-numbers/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Linked List, Math, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 45.6 MB
 
 ---
 
